@@ -20,3 +20,19 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2040
+- serviceName: project.siqa_0205_awsstage.integrations:deepclonetest
+  packages:
+  - name: SIQA_0205_AWSSTAGEProject
+    version: "1.0"
+- serviceName: pub.string:stringToBytes
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2040
+- serviceName: pub.utils:deepClone
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2040
+- serviceName: pub.string:bytesToString
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2040
