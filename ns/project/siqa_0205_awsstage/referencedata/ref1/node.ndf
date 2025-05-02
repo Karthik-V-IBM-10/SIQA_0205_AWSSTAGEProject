@@ -252,6 +252,8 @@
       <value name="modifiable">true</value>
     </record>
   </record>
+  <value name="description"></value>
+  <value name="node_comment"></value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
@@ -294,7 +296,7 @@
     <value name="descriptorName">project.siqa_0205_awsstage.referencedata:ref1</value>
     <byte name="sourceBytes">
 ZmllbGQ6dmFsdWUNCklEOjAxDQpOYW1lOlZpZGkNCg==    </byte>
-    <null name="description"/>
+    <value name="description"></value>
     <value name="columnDelimiter">:</value>
     <value name="releaseCharacter">"</value>
     <array name="columnNames" type="value" depth="1">
