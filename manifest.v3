@@ -12,17 +12,18 @@
     <value name="TPP_services_in_FCS">1.0</value>
     <value name="SSL_JDBC_Test">1.0</value>
     <value name="JMS2waySSL">1.0</value>
+    <value name="JMSTest">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">27</value>
+  <value name="build">28</value>
   <null name="description"/>
   <value name="created_date">02-05-2025 07:43:21 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-05-02T08:11:14.256239131Z</value>
+  <value name="lastUpdated">2025-05-02T08:12:57.57170456Z</value>
   <value name="wmProjectId">fl8bcfdcc5e20e2d408d9d50</value>
   <value name="creator">siqa developer</value>
 </Values>
